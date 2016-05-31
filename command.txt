@@ -1,0 +1,1 @@
+mvn -Ddependency.locations.enabled=false project-info-reports:dependencies -P geowave-tools-singlejar,hortonworks
